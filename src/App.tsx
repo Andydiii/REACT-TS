@@ -1,5 +1,4 @@
-import Navbar from "@/scenes/navbar/index.tsx";
-
+import Navbar from "@/scenes/navbar/navbar";
 function App() {
   return (
     <div className="app bg-gray-20">
