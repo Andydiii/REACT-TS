@@ -8,7 +8,7 @@ type Props = {
     setSelectedPage: (value: SelectedPage) => void;
 };
 
-function Link({
+function Link({ 
     page,
     selectedPage, 
     setSelectedPage,

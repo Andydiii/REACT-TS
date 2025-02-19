@@ -24,7 +24,7 @@ function Home( { setSelectedPage } : Props) {
     >
         {/* IMAGE AND MAIN HEADER*/}
         {/* md:flex applys only when we are at the big screen */}
-        <div classname="md:flex mx-auto w-5/6 items-center justify-center md:h-5/6">
+        <div className="md:flex mx-auto w-5/6 items-center justify-center md:h-5/6">
             {/* MAIN HEADER */}
             <div>
                 {/* HEADINGS */}
