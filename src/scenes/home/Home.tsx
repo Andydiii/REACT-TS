@@ -52,7 +52,7 @@ function Home( { setSelectedPage } : Props) {
                     >
                         <p>Learn More</p>
                     </AnchorLink>
-                </div>
+                </div> 
             </div>
 
             {/* IMAGE */}
